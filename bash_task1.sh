@@ -15,4 +15,4 @@ fib () {
 }
 
 RESULT=$(fib $VALUE)
-echo "Fn of $VALUE is $RESULT"
+echo "Fn of N=$VALUE is $RESULT"
